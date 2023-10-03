@@ -11,6 +11,4 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.
 - Pruebas iniciales de la plataforma con un grupo limitado de usuarios.
 - Recopilación de feedback y detección de posibles errores.
 
----
 
-**Nota:** Las fechas "AAAA-MM-DD" son placeholders y deben ser reemplazadas por las fechas correspondientes al desarrollo y lanzamiento de las versiones.
