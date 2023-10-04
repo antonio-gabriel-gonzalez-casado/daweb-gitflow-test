@@ -11,4 +11,9 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.
 - Pruebas iniciales de la plataforma con un grupo limitado de usuarios.
 - Recopilación de feedback y detección de posibles errores.
 
+## [0.2.0] - 2023-10-03 (Hotfix 02 - Ricardo)
+
+### Añadido
+
+- Ricardo es un mal delegado
 
