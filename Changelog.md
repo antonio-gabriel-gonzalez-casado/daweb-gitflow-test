@@ -17,3 +17,8 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.
 
 - Ricardo es un mal delegado
 
+## [1.0] - 2023-10-03 (Release 1.0)
+
+### Añadido
+
+-Version 1.0 lanzada con bugfixes
